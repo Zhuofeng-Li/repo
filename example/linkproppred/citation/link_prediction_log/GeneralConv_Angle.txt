@@ -1,0 +1,39 @@
+Loading angle embeddings
+Data(edge_index=[2, 5970965], edge_attr=[5970965, 1024], x=[4972456, 1024])
+cuda
+Epoch: 001, Loss: 0.3901
+Validation begins
+F1 score: 0.8707
+Validation AUC: 0.9309
+Epoch: 002, Loss: 0.2387
+Validation begins
+F1 score: 0.8961
+Validation AUC: 0.9496
+Epoch: 003, Loss: 0.2067
+Validation begins
+F1 score: 0.9049
+Validation AUC: 0.9562
+Epoch: 004, Loss: 0.1826
+Validation begins
+F1 score: 0.8995
+Validation AUC: 0.9500
+Epoch: 005, Loss: 0.1647
+Validation begins
+F1 score: 0.9103
+Validation AUC: 0.9595
+Epoch: 006, Loss: 0.1521
+Validation begins
+F1 score: 0.9037
+Validation AUC: 0.9547
+Epoch: 007, Loss: 0.1423
+Validation begins
+F1 score: 0.9089
+Validation AUC: 0.9583
+Epoch: 008, Loss: 0.1306
+Validation begins
+F1 score: 0.9071
+Validation AUC: 0.9568
+Epoch: 009, Loss: 0.1211
+Validation begins
+F1 score: 0.8971
+Validation AUC: 0.9496

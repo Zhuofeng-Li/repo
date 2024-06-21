@@ -1,0 +1,27 @@
+HeteroData(
+  user={ x=[92667, 64] },
+  book={ x=[123946, 64] },
+  genre={ x=[11, 64] },
+  (user, review, book)={
+    edge_index=[2, 734640],
+    edge_label=[734640],
+  },
+  (book, description, genre)={ edge_index=[2, 123946] }
+)
+cuda
+Epoch: 001, Loss: 0.3677
+Validation begins
+F1 score: 0.8899
+Validation AUC: 0.9489
+Epoch: 002, Loss: 0.2620
+Validation begins
+F1 score: 0.8939
+Validation AUC: 0.9518
+Epoch: 003, Loss: 0.2353
+Validation begins
+F1 score: 0.8912
+Validation AUC: 0.9507
+Epoch: 004, Loss: 0.1980
+Validation begins
+F1 score: 0.8811
+Validation AUC: 0.9457
